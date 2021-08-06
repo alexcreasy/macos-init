@@ -1,4 +1,4 @@
-!/usr/bin/env bash
+#!/usr/bin/env bash
 
 cp .{path,bash_profile,bash_prompt,exports,aliases,functions,extra} ${HOME} 2>/dev/null
 
