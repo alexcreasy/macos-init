@@ -46,6 +46,7 @@ brew "wakeonlan"
 brew "wget"
 brew "tree"
 
+cask "iterm2"
 cask "firefox"
 cask "google-chrome"
 cask "coconutbattery"
